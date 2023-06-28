@@ -6,7 +6,7 @@ As a tech enthusiast improving my skills at FireBootCamp-SSW, I'm immersing myse
 
 - **Languages**: JavaScript, TypeScript.
 - **Frameworks/Libraries**: Angular.
-- **Tools**: Git, NPM, VS Code.
+- **Tools**: Git, VS Code.
 - **Interests**: Responsive Design, User Experience, Performance Optimization.
 
 ### 📚 Continuous Learning
